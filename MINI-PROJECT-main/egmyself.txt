@@ -1,0 +1,17 @@
+http://secure-update.verify-accounts.net/login?user=12345
+http://check-your-balance.12345.xyz/validate?session=abc		targeted site-bank(mostly sbi)
+http://xin.50-6-170-168.cprapid.com/?verify
+http://account-verify.example-xyz.com/?redirect=login         targeted site-spam message url
+http://mysecuremail.com/alerts/confirm?email=your-email@example.com		
+https://urgent-update.request-password.xyz/process?id=987654		targeted site- password compromised spam		
+https://claim-your-prize.giveaway-alert.com/redeem?ref=prize2024      targeted site-give away spam url
+http://emergency-update.data-check.net/verify?token=abc789
+https://login.microsoftonline.ccisystem.us                               targeted site-microsoft
+https://pub-76c623e95ea84e6cb2978f3311321b22.r2.dev/qiye.html           targeted site- net ease
+
+http://investors.spotify.com.sg.misteri.us.kg/                 targeted site-  spotify
+
+http://join-mywhatsapp.pages.dev/                            targeted site- WhatsApp
+
+https://www.amazon.secure-login.net/account-update            targeted site-amazon
+https://optusnet-com.blogspot.ae/                              targeted site - singtel optus
